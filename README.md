@@ -12,11 +12,13 @@ For installing all dependencies
 $ npm install
 ```
 
+Rename .env.example file to .env
+
 Run the server
 
 ```bash
 $ cd server
-$ node
+$ node index.js
 ```
 
 Run the client in new console tab
